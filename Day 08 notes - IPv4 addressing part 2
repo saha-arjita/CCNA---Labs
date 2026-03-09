@@ -1,4 +1,4 @@
-Day-08: IPv4 Addressing Part 2 (Layer 3 - Network)
+# Day-08: IPv4 Addressing Part 2 (Layer 3 - Network)
 
 Class C : 192.168.1.0/24 (host portion all 0s = network address) → 192.168.1.255/24 (host portion all 1s = broadcast address)
 Host portion = 2^8 = 256
